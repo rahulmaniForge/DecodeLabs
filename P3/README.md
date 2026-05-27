@@ -43,5 +43,12 @@ Genre Match, Mood Match,
 Rating Preference, Modern Movie
 ```
 
+## 📸 Output Screenshots
+
+### Sample Output
+![Output 1](screenshots/output1.png)
+
+![Output 2](screenshots/output2.png)
+
 ### Conclusion
 This project demonstrates a simple AI recommendation system using **preference analysis, ranking, and scoring logic** to generate personalized recommendations.
