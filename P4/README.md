@@ -72,7 +72,7 @@ PDF report saved automatically
 ## 📸 Output Screenshots
 
 ### Sample Output
-![Output 1](screenshots/output1.png)
+![Output 1](screenshots/output.png)
 
 ## 🏁 Conclusion  
 
