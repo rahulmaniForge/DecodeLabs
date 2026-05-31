@@ -67,9 +67,12 @@ Extracted text displayed in terminal
 Confidence score calculated
 PDF report saved automatically
 ```
-DECODELABS_OCR_REPORT_YYYYMMDD_HHMMSS.pdf
+![Generated Output](.screenshots/DECODELABS_OCR_REPORT_YYYYMMDD_HHMMSS.pdf)
 
 ## 📸 Output Screenshots
+
+### Sample Output
+![Output 1](screenshots/output1.png)
 
 ## 🏁 Conclusion  
 
